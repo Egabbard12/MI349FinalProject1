@@ -1,0 +1,47 @@
+html {
+    max-width: 800px;
+    background-color: rgb(246, 236, 217);
+    padding:20px;
+    margin: auto;
+}
+header {
+    border-bottom: 1px solid red !important;
+    height: 120px;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(246, 236, 217);
+    
+    
+}
+
+img{
+    max-width: 800px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    background-color: rgb(255, 230, 149);
+}
+
+ul {
+    list-style-type: none;
+}
+
+iframe{
+    width: 400px;
+    height: 400px;
+    align-self: center;
+
+    
+}
+
+.other-site{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    columns: 2;
+    
+    
+}
